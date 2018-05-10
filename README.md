@@ -1,4 +1,4 @@
-#Data mining examples.
+# Data mining examples.
 
 File Description:
 - apriori.py : Python implementation of the apriori algorithm. This code reads a transactional database file specified by the user and based on user's specified support and confidence values, frequent itemsets and association rules are generated.
